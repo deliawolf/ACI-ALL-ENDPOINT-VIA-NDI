@@ -1,2 +1,2 @@
-# ACI-ALL-ENGPOINT-VIA-NDI
- Gather all engpoint via NDI
+# ACI-ALL-ENDPOINT-VIA-NDI
+ Gather all endpoint via NDI
